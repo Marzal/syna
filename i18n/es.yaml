@@ -16,17 +16,17 @@
 - id: contact.defaultEmailError
   translation: "Por favor, introduzca dirección de correo electrónico"
 - id: contact.defaultPhoneError
-  translation: "Por favor, introduzca número de telefono"
+  translation: "Por favor, introduzca número de teléfono"
 - id: contact.defaultMessageError
   translation: "Por favor, introduzca un mensaje"
 - id: contact.defaultGenericSuccess
   translation: "Gracias por contactarnos"
 - id: contact.defaultGenericError
-  translation: "No se puede enviar el mensaje. Por favor, pongase en contacto"
+  translation: "No se puede enviar el mensaje. Por favor, póngase en contacto"
 - id: contact.defaultJsError
-  translation: "El mensaje no puede ser enviado con javascript deshabilidado. Por favor, pongase en contacto"
+  translation: "El mensaje no puede ser enviado con javascript deshabilidado. Por favor, póngase en contacto"
 - id: contact.defaultCaptchaError
-  translation: "El mensaje no puede ser enviado sin el captcha cargado. Por favor, pongase en contacto"
+  translation: "El mensaje no puede ser enviado sin el captcha cargado. Por favor, póngase en contacto"
 - id: contact.defaultButton
   translation: "Enviar Mensaje"
 
@@ -74,13 +74,13 @@
 - id: stripe.email
   translation: "Su dirección de correo electrónico"
 - id: stripe.pricePlaceholder
-  translation: "Introduzca ssu cantidad personalizada"
+  translation: "Introduzca su cantidad personalizada"
 - id: stripe.customPriceError
   translation: "La cantidad debe ir en los siguientes formatos: 20, 20.00, 20,00"
 - id: stripe.defaultGenericSuccess
-  translation: "El pago se realizo con exito. Gracias."
+  translation: "El pago se realizo con éxito. Gracias."
 - id: stripe.defaultGenericError
-  translation: "Algo sucedio. Por favor, pruebe de nuevo en unos minutos."
+  translation: "Algo sucedió. Por favor, pruebe de nuevo en unos minutos."
 - id: stripe.change_price
   translation: "Cambie el valor"
 - id: stripe.change_currency
